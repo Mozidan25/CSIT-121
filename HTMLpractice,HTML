@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Practice</title>
+</head>
+<body>
+
+    <header>
+        <h1>Moustafa Zidan</h1>
+    </header>
+
+    <main>
+        <article>
+            <h2>About Me</h2>
+            <p>My name is Moustafa Zidan. I am a student at CCBC. I am studying Information Technology. I am in my third year of college. I am a full-time student in the CSIT 121 class. I am currently studying Information Technology at Community College of Baltimore County. A hobby/skill I enjoy is playing soccer.</p>
+
+            <h3>Things I Like to Do</h3>
+            <ul>
+                <li>Play soccer</li>
+                <li>Listen to music</li>
+                <li>Go to the gym</li>
+                <li>Play video games</li>
+            </ul>
+
+            <h3>My Favorite Website</h3>
+            <p>To learn more or enjoy my favorite content, visit <a href="https://www.netflix.com/browse" target="_blank">Netflix</a>.</p>
+
+            <h3>Contact Me</h3>
+            <p>If you need to reach me, send an email at <a href="mailto:ba1130680@email.ccbcmd.edu">ba1130680@email.ccbcmd.edu</a>.</p>
+        </article>
+    </main>
+
+    <footer>
+        <p>© 2025 Moustafa Zidan - HTML Practice</p>
+    </footer>
+
+</body>
+</html>
