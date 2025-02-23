@@ -1,0 +1,31 @@
+body {
+    background-color: #f4f4f4;
+    color: black;
+    font-family: Arial, sans-serif;
+
+}
+
+h1, h2, h3 {
+    color: blue;
+}
+
+p{ 
+    line-height: 1.5;
+
+}
+a{
+    color: blue;
+
+}
+a:hover {
+    text-decoration: underline;
+
+}
+#blog-title {
+    font-size: 24px;
+    text-align: center;
+
+}
+.highlight {
+    background-color: yellow;
+}
